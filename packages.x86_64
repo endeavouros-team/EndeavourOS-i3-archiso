@@ -170,10 +170,13 @@ firefox
 ttf-dejavu
 ttf-liberation
 ttf-bitstream-vera
-ttf-arphic-uming
-ttf-baekmuk
-adobe-source-han-sans-jp-fonts
-ttf-freefont
+ttf-ubuntu-font-family
+cantarell-fonts
+ttf-croscore
+ttf-carlito
+ttf-caladea
+noto-fonts
+noto-fonts-cjk
 opendesktop-fonts
 ttf-opensans
 

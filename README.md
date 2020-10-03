@@ -37,7 +37,7 @@ Clone:\
 
 Uses archiso from archlinux as base.
 
-* xfce4 as live environment
+* i3-wm as live environment
 * Basic tools for a livecd
 * Installer
 * rescue tools included:

@@ -73,12 +73,6 @@ mv cleaner_script.sh chrooted_cleaner_script.sh calamares_switcher update-mirror
 chmod -R 700 /root
 chown root:root -R /root
 chown root:root -R /etc/skel
-git clone https://github.com/endeavouros-team/calamares_branding
-cd calamares_branding/branding
-cp -R endeavouros /usr/share/calamares/branding/
-cd ..
-cd ..
-rm -R calamares_branding
 chsh -s /bin/bash"
 }
 
